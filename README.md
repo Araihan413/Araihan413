@@ -1,5 +1,7 @@
 
 ![Header](./image/github-header-image.png)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Araihan413)
 ### 🙍‍♂️ About Me
 Hi there! 👋 I’m Raihan, an Information Systems student passionate about web development and building user-centric digital solutions. Currently, I’m honing my skills in frontend development (HTML, CSS, JavaScript, React) and exploring backend technologies like Node.js and databases. I love turning ideas into functional projects and am always eager to collaborate, learn, and grow in the tech space. Let’s connect and create something awesome together!
 
@@ -13,7 +15,7 @@ Hi there! 👋 I’m Raihan, an Information Systems student passionate about web
 ### 📊 Github Stats
 ![Araihan413's GitHub stats](https://github-readme-stats.vercel.app/api?username=Araihan413&show_icons=true&theme=algolia)
 
-### Contributions
+### 📝 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Araihan413/Araihan413/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Araihan413/Araihan413/output/pacman-contribution-graph.svg">
