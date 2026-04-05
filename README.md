@@ -20,6 +20,9 @@ Hi there! 👋 I’m Raihan, an Information Systems student passionate about web
 <a href="https://github.com/Araihan413">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Araihan413&layout=compact&langs_count=8&card_width=320" />
 </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Araihan413&show_icons=true&theme=algolia)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Araihan413&layout=compact)
 
 ### 📝 Contributions
 <picture>
