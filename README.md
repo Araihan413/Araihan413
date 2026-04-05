@@ -6,7 +6,7 @@
 Hi there! 👋 I’m Raihan, an Information Systems student passionate about web development and building user-centric digital solutions. Currently, I’m honing my skills in frontend development (HTML, CSS, JavaScript, React) and exploring backend technologies like Node.js and databases. I love turning ideas into functional projects and am always eager to collaborate, learn, and grow in the tech space. Let’s connect and create something awesome together!
 
 ### 📞 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Araihan413) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmd_arrai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raihan-08355724b/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/HansData)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Araihan413) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmd_arrai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raihan-08355724b/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Araihan413)
 
 
 ### 🛠️ Tech Stack
